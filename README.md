@@ -12,11 +12,9 @@
   
   Le programme est déjà compilé et se trouve dans le dossier bin/Debug.
   
-  Placez vous dans le dossier que vous avez créé précédemment
   Ouvrez un terminal et tapez:
         
-        bin/Debug/main
-   
+        bin/Debug/main 
   Si vous souhaitez le compiler à nouveau, tapez dans le terminal:
        
        make clean
