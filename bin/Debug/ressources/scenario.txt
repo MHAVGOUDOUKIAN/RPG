@@ -1,0 +1,41 @@
+#1
+_______________ La Clairière _________________
+
+Vous vous rendez dans un village proche, mais une plante 
+Carnivore Géante bloque le seul chemin qui y mène ! 
+Le seul moyen de passer est de la détruire.
+
+1 - Explorer les alentours
+2 - Tenter de vaincre la Plante Carnivore Géante
+3 - Voir le marchand ambulant
+4 - Gérer votre inventaire
+5 - Quitter la partie
+
+#2
+________________ Le Village __________________
+
+Vous avez atteint le village. Vous souhaitez récupérer
+de vos rencontres avec les créatures de la clairiere.
+Malheureusement pour vous, le Fleau et sa bande, des hors-la-loi,  
+rôdent et sème la pagaille dans le village.
+Il est très dangereux de repartir seul.
+
+1 - Visiter les lieux
+2 - Tenter de vaincre le Fleau
+3 - Voir la boutique du village
+4 - Gérer votre inventaire
+5 - Quitter la partie
+
+#3
+_______________ Les Plaines _________________
+
+Vous souhaitez vous rendre dans la capitale du pays.
+Vous arrivez aux portes de la ville mais un garde vous
+arrete : << Halte là! Aucun étranger n'est autorisé à rentrer
+dans la capitale >>.
+
+1 - Provoquer les gardes
+2 - Parler au commandant de la garde
+3 - Voir le Forgeron
+4 - Gérer votre inventaire
+5 - Quitter la partie

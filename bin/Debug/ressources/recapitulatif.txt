@@ -1,0 +1,2 @@
+Tous les objets du style consommables, armes, armures, etc.. dérive de la classe "Objet"
+La classe ListeAdapt contient des entités de la classe "Objet" bien plus simple.

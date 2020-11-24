@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1601578552 source:c:\users\periodic element\desktop\test cours poo\main.cpp
+	<iostream>
+	"Perso.hpp"
+	"Guerrier.hpp"
+	"Mage.hpp"
+	"GuerrierMage.hpp"
+
+1601566556 source:c:\users\periodic element\desktop\test cours poo\guerrier.cpp
+	<iostream>
+	"Guerrier.hpp"
+
+1601578858 source:c:\users\periodic element\desktop\test cours poo\mage.cpp
+	<iostream>
+	"Mage.hpp"
+
+1601566853 c:\users\periodic element\desktop\test cours poo\perso.hpp
+
+1601567006 source:c:\users\periodic element\desktop\test cours poo\perso.cpp
+	<iostream>
+	"Perso.hpp"
+
+1601566556 c:\users\periodic element\desktop\test cours poo\guerrier.hpp
+	"Perso.hpp"
+
+1601566645 c:\users\periodic element\desktop\test cours poo\mage.hpp
+	"Perso.hpp"
+
+1601578837 source:c:\users\periodic element\desktop\test cours poo\guerriermage.cpp
+	<iostream>
+	"GuerrierMage.hpp"
+
+1601578401 c:\users\periodic element\desktop\test cours poo\guerriermage.hpp
+	"Guerrier.hpp"
+	"Mage.hpp"
+
+1605477970 source:c:\users\periodic element\desktop\rpg\arme.cpp
+	<iostream>
+	"Arme.hpp"
+	"Objet.hpp"
+
+1605124787 c:\users\periodic element\desktop\rpg\arme.hpp
+	"Interface.hpp"
+
+1605130028 c:\users\periodic element\desktop\rpg\interface.hpp
+	"Objet.hpp"
+
+1605129935 c:\users\periodic element\desktop\rpg\objet.hpp
+
+1605131012 source:c:\users\periodic element\desktop\rpg\baguette.cpp
+	<iostream>
+	"Baguette.hpp"
+
+1605036128 c:\users\periodic element\desktop\rpg\baguette.hpp
+	"Arme.hpp"
+
+1605131027 source:c:\users\periodic element\desktop\rpg\epee.cpp
+	<iostream>
+	"Epee.hpp"
+
+1605036130 c:\users\periodic element\desktop\rpg\epee.hpp
+	"Arme.hpp"
+
+1606216053 source:c:\users\periodic element\desktop\rpg\game.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<time.h>
+	"Game.hpp"
+	"Guerrier.hpp"
+	"Mage.hpp"
+	"Objet.hpp"
+	"Mob.hpp"
+	"Epee.hpp"
+	"inline.h"
+
+1605476706 c:\users\periodic element\desktop\rpg\game.hpp
+	"Objet.hpp"
+	"ListeAdapt.hpp"
+
+1605212126 c:\users\periodic element\desktop\rpg\listeadapt.hpp
+	"ListeAdaptMaillon.hpp"
+
+1605120448 c:\users\periodic element\desktop\rpg\listeadaptmaillon.hpp
+	"Objet.hpp"
+
+1605036133 c:\users\periodic element\desktop\rpg\guerrier.hpp
+	"Perso.hpp"
+
+1605131607 c:\users\periodic element\desktop\rpg\perso.hpp
+	"Interface.hpp"
+	"Arme.hpp"
+	"ListeAdapt.hpp"
+	"Objet.hpp"
+
+1605036138 c:\users\periodic element\desktop\rpg\mage.hpp
+	"Perso.hpp"
+
+1605126526 c:\users\periodic element\desktop\rpg\mob.hpp
+	"Perso.hpp"
+
+1604846998 c:\users\periodic element\desktop\rpg\inline.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<time.h>
+
+1605131047 source:c:\users\periodic element\desktop\rpg\guerrier.cpp
+	<iostream>
+	"Guerrier.hpp"
+	"Arme.hpp"
+
+1605131068 source:c:\users\periodic element\desktop\rpg\mage.cpp
+	<iostream>
+	"Mage.hpp"
+	"Arme.hpp"
+
+1605475324 source:c:\users\periodic element\desktop\rpg\main.cpp
+	<iostream>
+	<fstream>
+	"Game.hpp"
+	"Guerrier.hpp"
+	"Mob.hpp"
+	"inline.h"
+	"ListeAdapt.hpp"
+	"Epee.hpp"
+	"Baguette.hpp"
+	"Mage.hpp"
+
+1605131086 source:c:\users\periodic element\desktop\rpg\mob.cpp
+	<iostream>
+	"Mob.hpp"
+	"Perso.hpp"
+
+1604879042 source:c:\users\periodic element\desktop\rpg\objet.cpp
+	<iostream>
+	"Objet.hpp"
+
+1605134574 source:c:\users\periodic element\desktop\rpg\perso.cpp
+	<iostream>
+	"inline.h"
+	"Perso.hpp"
+	"Mob.hpp"
+	"Arme.hpp"
+	"Objet.hpp"
+
+1605265409 source:c:\users\periodic element\desktop\rpg\listeadapt.cpp
+	<iostream>
+	"ListeAdapt.hpp"
+	"ListeAdaptMaillon.hpp"
+	"Objet.hpp"
+
+1605212112 source:c:\users\periodic element\desktop\rpg\listeadaptmaillon.cpp
+	<iostream>
+	"ListeAdapt.hpp"
+	"Objet.hpp"
+

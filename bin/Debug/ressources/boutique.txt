@@ -1,0 +1,6 @@
+#1
+~~ Boutique du marchand ambulant ~~
+#2
+~~ Boutique du village ~~
+#3
+~~ Boutique du Forgeron ~~

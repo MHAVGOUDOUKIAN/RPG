@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Test cours POO" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Test cours POO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Test cours POO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Arme.cpp" />
+		<Unit filename="Arme.hpp" />
+		<Unit filename="Baguette.cpp" />
+		<Unit filename="Baguette.hpp" />
+		<Unit filename="Epee.cpp" />
+		<Unit filename="Epee.hpp" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.hpp" />
+		<Unit filename="Guerrier.cpp" />
+		<Unit filename="Guerrier.hpp" />
+		<Unit filename="Interface.hpp" />
+		<Unit filename="ListeAdapt.cpp" />
+		<Unit filename="ListeAdapt.hpp" />
+		<Unit filename="ListeAdaptMaillon.cpp" />
+		<Unit filename="ListeAdaptMaillon.hpp" />
+		<Unit filename="Mage.cpp" />
+		<Unit filename="Mage.hpp" />
+		<Unit filename="Mob.cpp" />
+		<Unit filename="Mob.hpp" />
+		<Unit filename="Objet.cpp" />
+		<Unit filename="Objet.hpp" />
+		<Unit filename="Perso.cpp" />
+		<Unit filename="Perso.hpp" />
+		<Unit filename="inline.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
