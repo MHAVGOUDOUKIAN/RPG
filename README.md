@@ -1,4 +1,7 @@
 # RPG
+  
+ ( Tous les fichiers et dossiers ci-dessus doivent être réunis dans un dossier )
+
 ## Lancement sous Windows
   
   Le programme est déjà compilé et se trouve dans le dossier bin/Debug.
@@ -9,6 +12,7 @@
   
   Le programme est déjà compilé et se trouve dans le dossier bin/Debug.
   
+  Placez vous dans le dossier que vous avez créé précédemment
   Ouvrez un terminal et tapez:
         
         bin/Debug/main
