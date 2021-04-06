@@ -1,4 +1,6 @@
 # RPG
+
+ Un simple jeu style RPG classique.
   
  ( Tous les fichiers et dossiers ci-dessus doivent être réunis dans un dossier )
 
