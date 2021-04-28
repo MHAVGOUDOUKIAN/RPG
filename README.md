@@ -1,6 +1,6 @@
 # RPG
 
- Un simple jeu style RPG textuel avec un systèmes d'équipements et de combats basique.
+ Un simple jeu style RPG textuel avec un système d'équipements et de combats basique.
   
  ( Tous les fichiers et dossiers ci-dessus doivent être réunis dans un dossier )
 
