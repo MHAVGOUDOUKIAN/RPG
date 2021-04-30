@@ -19,10 +19,8 @@
         bin/Debug/main 
   Si vous souhaitez le compiler à nouveau, tapez dans le terminal:
        
-       make clean
-  Ensuite
-  
-       make
+       make clean && make
+
   Puis lancez le programme:      
         
         bin/Debug/main
