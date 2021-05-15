@@ -24,9 +24,3 @@
   Puis lancez le programme:      
         
         bin/Debug/main
-        
-     
-## Auteur
-  Maxime HAVGOUDOUKIAN
-
-### Status du projet - Terminé
