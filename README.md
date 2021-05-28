@@ -1,4 +1,4 @@
-# RPG
+# _RPG_
 
  Un simple jeu style RPG textuel avec un système d'équipements et de combats basique.
   
